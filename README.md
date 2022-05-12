@@ -14,7 +14,7 @@
   <img align="center" alt="Jesse-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Jesse-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <!--<img align="center" alt="Jesse-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="Jesse-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/974415467202613288/974415603425243176">
+  <img align="right" alt="Jesse-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/974415467202613288/974415603186172035/download20220504175216.png?width=409&height=409">
 </div>
   
   ##
