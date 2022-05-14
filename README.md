@@ -1,4 +1,7 @@
 - 🌱 Estou estudando HTML5 CSS3 e JAVASCRIPT
+- 🎓 Uma nova oportunidade de crescimento nunca é de mais.
+- 🤔 Explorando novas tecnologias.
+
 
 ## Oiii eu sou a Jessé Rodrigues, apaixonado por programação e tecnologia! 👋
 <div align="center">
@@ -12,6 +15,10 @@
   <img align="center" alt="Jesse-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Jesse-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/974415467202613288/974415603186172035/download20220504175216.png?width=409&height=409">
 </div>
+  <br>
+  Ferramentas de Desenvolvimento</br>
+
+  <br>![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)</br>
   
   ##
  
@@ -23,6 +30,7 @@
   ![Snake animation](https://github.com/Jrodrygues/Jrodrygues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
 
   
     <!--<img align="center" alt="Jesse-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
